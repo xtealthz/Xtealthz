@@ -16,58 +16,8 @@
 ```
 
 
-🔒 Aspiring Cybersecurity Analyst 
-
-🌍 Trilingual Communicator 
-
-🎓 Language Educator and Translator
-
-🐍 Python/SIEM Pro
-
-## Certifications
-
-- [Google - Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/professional-cert/FH5X1HU0I0NT) - Coursera, 2025
-- [Infosec - Cyber Incident Response Specialization](https://www.coursera.org/account/accomplishments/specialization/FEMA58NR6HRY) - Coursera, 2025
-- [Cisco - Security Operations Center (SOC)](https://www.coursera.org/account/accomplishments/verify/4C9UBUHC47JP) - Coursera, 2025
-- Mastercard - Cybersecurity Job Simulation - Forage, 2025
-- Tata Consultancy Services (TCS) - Cybersecurity Job 
-Simulation - Forage, 2025
-
-
-
-## 🛠️ Skills & Technologies
-
-### 🔐 **Cybersecurity Tools**
-![Splunk](https://img.shields.io/badge/Splunk-Phishing_Detection-orange?logo=splunk)
-![Chronicle](https://img.shields.io/badge/Google_Chronicle-SIEM-blue?logo=google-chronicle)
-![Snort](https://img.shields.io/badge/Snort/Suricata-IDS/IPS-red?logo=snort)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network_Forensics-1679A7?logo=wireshark)
-
-### 💻 **Programming & Automation**
-![Python](https://img.shields.io/badge/Python-SOAR_Automation-3776AB?logo=python)
-![Bash](https://img.shields.io/badge/Bash-System_Hardening-4EAA25?logo=gnu-bash)
-![Regex](https://img.shields.io/badge/Regex-Log_Parsing-2F2625)
-![SQL](https://img.shields.io/badge/SQL-Anomaly_Detection-4479A1?logo=postgresql)
-
-### 🛡️ **Frameworks & Compliance**
-![NIST](https://img.shields.io/badge/NIST_CSF/RMF-Risk_Management-002856)
-![MITRE](https://img.shields.io/badge/MITRE_ATT&CK-Threat_Modeling-EA3829)
-![SOC2](https://img.shields.io/badge/SOC_2-Compliance-9cf)
-
-### 🎯 **Security Specialties**
-![Phishing](https://img.shields.io/badge/Phishing_Simulations-Mastercard_Verified-success)
-![IAM](https://img.shields.io/badge/IAM-RBAC/Privilege_Escalation-0078D4)
-![Incident Response](https://img.shields.io/badge/Incident_Response-Infosec_Certified-important)
-
-### ☁️ **Infrastructure**
-![Linux](https://img.shields.io/badge/Linux-System_Hardening-FCC624?logo=linux)
-![Windows](https://img.shields.io/badge/Windows_Security-GPOs-0078D6?logo=windows)
-![AWS](https://img.shields.io/badge/AWS_Security_Concepts-EC2/S3-FF9900?logo=amazon-aws)
-
-### 🌟 **Transferable Skills**
-![Communication](https://img.shields.io/badge/Trilingual-EN/PT/ES-blueviolet)
-![Training](https://img.shields.io/badge/Technical_Training-10+_Years-success)
-![Client Facing](https://img.shields.io/badge/Client_Consulting-GRC_Readiness-9cf)
+🔒 Founder & CEO @ CyberProtec
+ 
 
 ## About Me
 
